@@ -1,2 +1,3 @@
 # hello-world
 learning how to GitHub
+Making my first commit. Had wheat flakes and coffee for breakfast. Am currently eyeing up the chocolate...
